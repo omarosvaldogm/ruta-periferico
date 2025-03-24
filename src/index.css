@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* { nombre: "Cárcamo de Tamulté", latlng: [17.9654, -92.9596] },
+    { nombre: "Recinto Memorial", latlng: [17.964611, -92.955972] },
+    { nombre: "Plaza Villahermosa", latlng: [17.964917, -92.953000] },
+    // { nombre: "Central de Autobuses ADO", latlng: [17.9894, -92.9281] },
+    // { nombre: "Parque Museo La Venta", latlng: [17.9847, -92.9339] },
+    // { nombre: "Galerías Tabasco", latlng: [17.9972, -92.9186] },
+    // { nombre: "Universidad Juárez Autónoma de Tabasco", latlng: [17.9753, -92.9386] }, */
